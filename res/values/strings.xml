@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">魅力宜昌</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- news主界面 -->
+    <string name="news_main">宜昌简介</string>
+    <string name="news_loaction">地理位置</string>
+    <string name="news_face">地质地貌</string>
+    <string name="news_view">自然特征</string>
+    <string name="news_history">历史沿革</string>
+    <string name="news_nature">城市风貌</string>
+    <string name="news_person">历史名家</string>
+    <string name="news_jinji">动物植物</string>
+    <string name="news_trans">行政区划</string>
+    <!-- news界面下动物植物项 -->
+    <string name="baihe">宜昌百合</string>
+    <string name="banli">板栗</string>
+    <string name="gezihua">鸽子花</string>
+    <string name="jinsihou">金丝猴</string>
+    <string name="lishu">栾树</string>
+    <string name="mihoutao">猕猴桃</string>
+    <string name="miju">宜昌蜜桔</string>
+    <string name="namei">腊梅</string>
+    <string name="sanxiagezihua">三峡鸽子花</string>
+    <string name="yclan">宜昌楠</string>
+    <string name="yinxin">银杏</string>
+    <string name="yueji">月季</string>
+    <string name="yulan">玉兰</string>
+    <string name="zhonghuaxun">中华鲟</string>
+    <string name="ziwei">紫薇</string>
+  
+    <!-- news界面下城市风貌项 -->
+    <string name="bingjiang">滨江公园</string>
+    <string name="ylcjdq">夷陵长江大桥</string>
+    <string name="child">儿童公园</string>
+    <string name="shuangting">双亭广场</string>
+    <string name="ylgc">夷陵广场</string>
+    <string name="zhenjiang">镇江阁</string>
+    
+    
+    <!-- 美食界面下的图片信息 -->
+     <string name="jiejiegeng">凉拌鱼腥草</string>
+    <string name="larou">熏腊肉</string>
+    <string name="zhaguangjiao">鲊广椒</string>
+    <string name="xia">宜昌香辣虾</string>
+    <string name="taohuayu">宜昌鸡泥桃花鱼</string>
+    <string name="xiaomian">宜昌红油小面</string>
+    <string name="liangxia">凉虾</string>
+     <string name="liangfen">赤花籽凉粉</string>
+    <string name="jingutiao">金箍条</string>
+    <string name="gao">顶顶糕</string>
+    <string name="feiyu">长江肥鱼</string>
+    <string name="chunjuan">夷陵春卷</string>
+    <string name="douhua">懒豆花</string>
+    <string name="jiaozi">萝卜饺子</string>
+    <string name="tudou">炕洋芋</string>
+</resources>

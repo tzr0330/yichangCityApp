@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <TextView android:id="@+id/date_mon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10月30日"
+        />
+
+        <TextView
+            android:id="@+id/date_week"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/date_mon"
+            android:text="周五" />
+
+         <TextView
+             android:id="@+id/date_temp"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_alignParentTop="true"
+             android:text="24" />
+
+         <TextView
+             android:id="@+id/date_weather"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentTop="true"
+             android:layout_toLeftOf="@+id/date_temp"
+             android:text="多云" />
+
+</RelativeLayout>
